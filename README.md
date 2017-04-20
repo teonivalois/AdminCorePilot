@@ -21,9 +21,11 @@ How to run
 Client
 
 > npm install
+> 
 > npm run dev
 
 Server
 
 > dotnet restore
+> 
 > dotnet run
